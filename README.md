@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Xerox
-- 👀 I’m interested in Informatique
-- 🌱 I’m currently learning python
--    My discord: 'XeRox#0684
+Yo, I’m Xerox
+I’m passioned for informatique
+- I’m currently learning python
+- My discord: 'XeRox#0684
