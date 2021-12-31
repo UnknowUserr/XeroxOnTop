@@ -5,7 +5,7 @@
 - TryHackMe : https://tryhackme.com/p/Xerox69
 
 <details>
- <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
+ <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
    - Python <br/>
   - C++ <br/>
  - L'infosec <br/>
