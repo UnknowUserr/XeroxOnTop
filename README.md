@@ -2,7 +2,7 @@
 
 ### Salut ✌
 - Salut, je suis un apprenti développeur.
-- Contactez-moi sur discord si nécessaire : **!'Xerox#0684**
+- Contactez-moi sur discord si nécessaire : **33X#8329**
 - TryHackMe : https://tryhackme.com/p/Xerox69
 
 <details>
