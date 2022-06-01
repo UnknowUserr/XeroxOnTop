@@ -1,8 +1,8 @@
-# ![Xerox3869](https://github.com/Xerox3869/Xerox3869/blob/main/GTA-Casino-Heist-Website.jpg)
+# ![X3rox38](https://github.com/Xerox3869/Xerox3869/blob/main/GTA-Casino-Heist-Website.jpg)
 
 ### Salut ✌
 - Salut, je suis un apprenti développeur.
-- Contactez-moi sur discord si nécessaire : **33X#8329**
+- Contactez-moi sur discord si nécessaire : **!" Xerox ' 33#8329**
 - TryHackMe : https://tryhackme.com/p/Xerox69
 
 <details>
@@ -13,4 +13,4 @@
 </details>
 
 ---
-![My statistics](https://github-readme-stats.vercel.app/api?username=33Xl&show_icons=true&hide=["prs","issues","contribs"])
+![My statistics](https://github-readme-stats.vercel.app/api?username=X3rox38&show_icons=true&hide=["prs","issues","contribs"])
