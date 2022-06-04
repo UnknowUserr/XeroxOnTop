@@ -1,6 +1,4 @@
-# ![X3rox38](https://github.com/Xerox3869/Xerox3869/blob/main/GTA-Casino-Heist-Website.jpg)
-
-### Salut ✌
+### ✌
 - Salut, je suis un apprenti développeur.
 - Contactez-moi sur discord si nécessaire : **!" Xerox ' 33#8329**
 - TryHackMe : https://tryhackme.com/p/Xerox69
