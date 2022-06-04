@@ -12,3 +12,7 @@
 
 ---
 ![My statistics](https://github-readme-stats.vercel.app/api?username=X3rox38&show_icons=true&hide=["prs","issues","contribs"])
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=X3rox38&color=blue" />
+</p>
