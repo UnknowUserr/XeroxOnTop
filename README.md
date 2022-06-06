@@ -4,7 +4,6 @@
 
 <details>
  <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
-   - Python x)<br/>
 </details>
 
 ---
