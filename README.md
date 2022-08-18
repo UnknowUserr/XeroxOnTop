@@ -18,6 +18,9 @@
 </p>  
 <hr>
 
+<p align="center">
+  <img src="https://github.com/X3rox38/X3rox38/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=X3rox38&color=blue" />
