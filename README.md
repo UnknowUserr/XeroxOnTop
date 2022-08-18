@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=X3rox38&color=blue" />
 </p>
 <h2 align="center">
-  Stats Github >
+  Stats Github
 </h2>
  
 <br>
