@@ -1,5 +1,5 @@
 - Bienvenue sur mon GitHub.
-- Contactez-moi sur discord si nécessaire : **!" Xerox ' 33#8329**
+- Contactez-moi sur discord si nécessaire : **! Xerox ' ✞#8329**
 - TryHackMe : https://tryhackme.com/p/Xerox69
 
 <h2 align="center">
