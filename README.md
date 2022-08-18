@@ -6,7 +6,7 @@
 ![My statistics](https://github-readme-stats.vercel.app/api?username=X3rox38&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 ---
 <h2 align="center">
-  My Contribution Graph>
+  My Contribution Graph
 </h2>
 <p align="center">
   <img src="https://github.com/X3rox38/X3rox38/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
