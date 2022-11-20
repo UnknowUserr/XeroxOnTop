@@ -1,9 +1,9 @@
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=X3rox38&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=X3rox38&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=XeroxOnTop&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XeroxOnTop&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=X3rox38&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=XeroxOnTop&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"/>
@@ -12,9 +12,9 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/X3rox38/X3rox38/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/XeroxOnTop/XeroxOnTop/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=X3rox38&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=XeroxOnTop&color=blue" />
 </p>
