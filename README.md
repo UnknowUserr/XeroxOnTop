@@ -12,7 +12,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/XeroxOnTop/XeroxOnTop/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/XeroxOnTop/X3rox38/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <p align="center">
