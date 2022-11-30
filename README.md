@@ -1,6 +1,9 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=XeroxOnTop&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+<p align = "center">
+ <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=XeroxOnTop&layout=compact&theme=radical">
+</p>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
